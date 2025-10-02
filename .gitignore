@@ -1,0 +1,10 @@
+# Ignore all .class files
+*.class
+
+# Ignore SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore other common files
+*.log
